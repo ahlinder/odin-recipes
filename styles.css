@@ -1,0 +1,21 @@
+.main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#lasagna {
+    color: yellow;
+}
+
+#soup , #meatballs {
+    color: red;
+    font-weight: bold ;
+}
+
+.text {
+    font-size: 20px;
+    color: gray;
+}
+
+.ingredients {
+    font-weight: 900;
+}
